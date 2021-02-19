@@ -1,0 +1,31 @@
+.img1, .img2, .img3, .img4,.img5,.img6,.img7{
+  width: 500px;
+  position: absolute;
+}
+
+.a1{
+  left: 500px;
+}
+.a2{
+  
+}
+.a3{
+  left: 500px;
+  top: 500px;
+}
+.a4{
+    top:500px;
+}
+.a5{
+  left:750px;
+  top: 750px;
+}
+.a6{
+  left: 350px;
+  top: 150px;;
+}
+.a7{
+  width: 1500px;
+  left: 1000px;
+  top: 200px;
+}
